@@ -1,0 +1,71 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Because I did not have to compare line by line to find the differences
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will be easier to debug
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I am not sure
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because it is easier having all versions in one place
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I don't know
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because I can rest assure that I will have access to the original file
+    if I want to go back to it
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To compare files
+	
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+	It would be easier to debug and have programs ready faster
+	
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+	Pro: It is done when you really need it
+	Con: It depends on the person who does the commit
+	
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because this is very helpful for coding
+	
+	
+	
+How can you use the commands git log and git diff to view the history of files?
+
+	As shown in the videos
+	
+How might using version control make you more confident to make changes that 
+could break something?
+
+	Because if I make a mistake it will be easier to debug
+	
+	
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Code
+	
+	/c/Users/Citlalli/Documents/App Developer/Git/version-control
+	
+	git diff 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
