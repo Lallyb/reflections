@@ -1,0 +1,10 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	You create a repository. Yes, it needs to be created by the user.
+	
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+		You can make changes there without been afraid of messing with 
+		the code.
