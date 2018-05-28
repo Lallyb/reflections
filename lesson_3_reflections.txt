@@ -23,3 +23,14 @@ the remote stored locally?
 
 	In case someone else modify it later, you can have the last 
 	known state. So you can make your own changes to it.
+	
+How would you collaborate without using Git or GitHub? What would 
+be easier, and what would be harder?
+
+	It would be harder to keep track of all the changes
+	
+When would you want to make changes in a separate branch rather 
+than directly in master? What benefits does each approach have?
+
+	When I am not sure I want to incorporate the changes in the master
+	or want to experiment with the code. Benfits: flexibility
