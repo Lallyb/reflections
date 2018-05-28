@@ -17,3 +17,9 @@ When would you use one instead of another?
 	clone is when you clone a repository to a remote place
 	branch is when you make a change that will not me added to 
 	the master
+	
+What is the benefit of having a copy of the last known state of 
+the remote stored locally?
+
+	In case someone else modify it later, you can have the last 
+	known state. So you can make your own changes to it.
