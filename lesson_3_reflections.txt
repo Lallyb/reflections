@@ -9,3 +9,11 @@ repository?
 
 	Because there could be some changes that I may not want in
 	my computer's repository
+	
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+	fork is when you copy one repository whithin GitHub
+	clone is when you clone a repository to a remote place
+	branch is when you make a change that will not me added to 
+	the master
